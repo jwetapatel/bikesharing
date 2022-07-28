@@ -3,6 +3,9 @@ tableau
 
 # NYC Citibike Analysis
 
+[Story of bikesharing By Jweta Patel](https://public.tableau.com/app/profile/jweta.patel/viz/NewYork_Citibike/NewYorkCitibike-Dashboard?publish=yes)
+
+
 # Overview of the statistical analysis:
 
 The purpose of the current analysis is to prepare visualizations that give potential investors a look into the highly-successful NYC Citibike bike-sharing program, so that they can see for themselves that a bike-sharing program in Des Moines is a solid business proposal. Among others, we have prepared visualizations that,
