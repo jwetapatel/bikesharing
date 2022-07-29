@@ -3,7 +3,7 @@ tableau
 
 # NYC Citibike Analysis
 
-[Story of bikesharing By Jweta Patel](https://public.tableau.com/app/profile/jweta.patel/viz/NewYork_Citibike/NewYorkCitibike-Dashboard?publish=yes)
+
 
 
 # Overview of the statistical analysis:
@@ -23,6 +23,8 @@ Source Files: 201908-citibike-tripdata.csv, 201908-citibike-revised_tripdata.csv
 Software: Tableau, Python 3.7.6, Jupyter NB, Pandas Library
 
 # Results:
+
+[Story of bikesharing By Jweta Patel](https://public.tableau.com/app/profile/jweta.patel/viz/NewYork_Citibike/NewYorkCitibike-Story)
 
 1. Looking at visualizations for 'Checkout Times for Users' and 'Checkout Times by Gender', we see that most rides are for 20 minutes or less, and that the vast majority of rides are less than one hour. We also see that this pattern is the same regardless of gender.
 
