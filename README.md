@@ -24,7 +24,7 @@ Software: Tableau, Python 3.7.6, Jupyter NB, Pandas Library
 
 # Results:
 
-[Story of bikesharing By Jweta Patel](https://public.tableau.com/app/profile/jweta.patel/viz/NewYork_Citibike/NewYorkCitibike-Story)
+### Link of final Analysis : [Story of bikesharing By Jweta Patel](https://public.tableau.com/app/profile/jweta.patel/viz/NewYork_Citibike/NewYorkCitibike-Story)
 
 1. Looking at visualizations for 'Checkout Times for Users' and 'Checkout Times by Gender', we see that most rides are for 20 minutes or less, and that the vast majority of rides are less than one hour. We also see that this pattern is the same regardless of gender.
 
